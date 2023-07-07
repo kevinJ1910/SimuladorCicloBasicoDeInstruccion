@@ -38,15 +38,14 @@ Luego, puedes ingresar las instrucciones una por una. El programa terminará cua
 
 Aquí tienes un ejemplo de uso del programa:
 
-> SET D0 5 NULL NULL
-SET D1 10 NULL NULL
-ADD D0 NULL NULL
-ADD D1 NULL NULL
-STR D2 NULL NULL
-SHW D2 NULL NULL 
-END NULL NULL NULL
+- SET  D0 5 NULL NULL
+- SET D1 10 NULL NULL
+- ADD D0 NULL NULL
+- ADD D1 NULL NULL
+- STR D2 NULL NULL
+- SHW D2 NULL NULL
+- END NULL NULL NULL
 
 > 15
-
 
 En este ejemplo, se asignan los valores 5 y 10 a las posiciones 0 y 1 de la memoria, respectivamente. Luego, se suman esos valores al acumulador y se almacena el resultado (15) en la posición 2 de la memoria. Finalmente, se muestra el valor almacenado en la posición 2.
