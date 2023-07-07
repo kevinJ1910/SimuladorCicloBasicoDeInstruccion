@@ -1,6 +1,16 @@
 # Proyecto Simulador de Ciclo Básico de instrucción
 
-Este proyecto simula una memoria y permite ejecutar instrucciones para manipularla.
+### Autores:
+
+    Kevin Jordan Alzate - 2228507 <kevin.jordan@correounivalle.edu.co>
+    Junior Orlando Cantor Arévalo - 2224949 <junior.cantor@correounivalle.edu.co>
+	Esteban Camilo Martinez Urbano - 2226969 <esteban.urbano@correounivalle.edu.co>
+
+## Descripcion
+
+Este código simula una memoria y permite al usuario manipularla mediante la ejecución de instrucciones. La memoria se representa como un arreglo de posiciones, cada una de las cuales puede almacenar un valor entero. También hay un acumulador que se usa para almacenar resultados intermedios.
+
+El programa lee una serie de instrucciones desde la entrada estándar y las ejecuta una por una. Estas instrucciones permiten al usuario realizar operaciones como asignar valores a posiciones de memoria, sumar valores, cargar y almacenar valores en el acumulador, y mostrar valores en la pantalla.
 
 ## Requisitos
 
